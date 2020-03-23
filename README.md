@@ -12,4 +12,7 @@ simple scripts based on the socket to open a session between the target and the 
 # screenshot
 ![](spy_hacker_capture.PNG)
 
+# explanation video 
+- hiding the payload and full explanation : 
+
 
