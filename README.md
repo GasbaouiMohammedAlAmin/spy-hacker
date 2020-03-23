@@ -1,5 +1,5 @@
 # spy-hacker
-scripts based on the socket to open a session between the target and the hacker over the internet using ngrok tools
+simple scripts based on the socket to open a session between the target and the hacker over the internet using ngrok tools
 
 - Note :i am not responsible for any bad use of these scripts
 1) You need JRE(java runtime environment)
